@@ -1,30 +1,58 @@
-# Equity Edge — Equity Research & Valuation of ixigo
+# 📈 Equity Edge — Equity Research & Valuation of ixigo
 
-A comprehensive equity research and financial valuation project focused on **ixigo**, an Online Travel Agency (OTA). The project combines business analysis, industry research, financial statement analysis, revenue forecasting, FCFF modelling, WACC estimation, DCF valuation, and sensitivity analysis to develop an evidence-based investment thesis.
+### Equity Research | Financial Modelling | DCF Valuation | Investment Analysis
+
+**Author:** Aman Agrawal  
+**Institute:** IIT Kanpur  
+**Project:** Equity Edge — Finance & Analytics Project
 
 ---
 
 ## 📌 Project Overview
 
-The objective of this project was to understand ixigo's business fundamentals, evaluate its financial performance and growth prospects, forecast future cash flows, and estimate its intrinsic value using a **Discounted Cash Flow (DCF)** framework.
+**Equity Edge** is a comprehensive equity research and financial valuation project focused on **ixigo**, an Online Travel Agency (OTA).
 
-The analysis followed a structured approach combining **qualitative business research** with **quantitative financial modelling**. :contentReference[oaicite:1]{index=1}
+The project combines **business analysis, industry research, financial statement analysis, revenue forecasting, FCFF modelling, WACC estimation, DCF valuation, and sensitivity analysis** to evaluate the company's financial performance, growth prospects, and intrinsic value.
+
+The analysis follows a structured approach combining **qualitative business research** with **quantitative financial modelling**.
 
 ---
 
-## 🎯 Objectives
+## 👤 About the Project
+
+**Prepared by:** Aman Agrawal  
+**Institution:** Indian Institute of Technology Kanpur (IIT Kanpur)  
+**Domain:** Equity Research & Financial Analysis
+
+### Key Areas Covered
+
+- Business & Industry Analysis
+- Financial Statement Analysis
+- Unit Economics
+- Revenue Forecasting
+- Financial Modelling
+- FCFF Modelling
+- WACC Estimation
+- DCF Valuation
+- Terminal Value
+- Sensitivity Analysis
+- Investment Thesis
+
+---
+
+## 🎯 Project Objectives
+
+The project aimed to:
 
 - Understand ixigo's **business model and revenue drivers**
 - Analyze the **Indian online travel industry** and competitive landscape
 - Evaluate historical **financial performance and key financial ratios**
-- Forecast future revenue, operating performance, and cash flows
+- Forecast future **revenue, operating performance, and cash flows**
 - Estimate the **Weighted Average Cost of Capital (WACC)**
 - Build a **Free Cash Flow to Firm (FCFF)** model
-- Calculate intrinsic value using **DCF valuation**
+- Estimate intrinsic value using a **Discounted Cash Flow (DCF)** framework
 - Perform **sensitivity analysis** on key valuation assumptions
-- Develop an evidence-based **investment thesis**
-
-The project's core objectives included business model evaluation, financial statement analysis, revenue and cash-flow forecasting, DCF valuation, and sensitivity analysis. :contentReference[oaicite:2]{index=2}
+- Develop an **evidence-based investment thesis**
 
 ---
 
@@ -32,10 +60,10 @@ The project's core objectives included business model evaluation, financial stat
 
 ixigo operates as an **Online Travel Agency (OTA)**.
 
-The analysis examined:
+The business analysis focused on:
 
 - Business model
-- Revenue streams
+- Revenue drivers
 - Unit economics
 - Industry dynamics
 - Competitive positioning
@@ -43,15 +71,24 @@ The analysis examined:
 - Operating leverage
 - Long-term growth opportunities
 
-ixigo's major revenue sources were analyzed through **booking convenience fees, commissions from travel partners, advertising income, and value-added services**. The report also examined the company's asset-light model and its scalability with increasing transaction volumes. :contentReference[oaicite:3]{index=3}
+### Revenue Streams
+
+The analysis considered ixigo's key revenue sources, including:
+
+- Booking convenience fees
+- Commissions from travel partners
+- Advertising income
+- Value-added services
+
+The company's **asset-light business model** and its ability to scale with increasing transaction volumes were also evaluated.
 
 ---
 
 ## 📊 Financial Analysis
 
-Historical financial performance was studied to establish the baseline for future projections.
+Historical financial performance was analyzed to establish a foundation for future projections.
 
-Key areas analyzed:
+### Areas Analyzed
 
 - Revenue growth
 - Operating performance
@@ -61,35 +98,30 @@ Key areas analyzed:
 - Capital expenditure
 - Working capital requirements
 
-Historical performance was used as one of the key inputs for developing future financial projections. :contentReference[oaicite:4]{index=4}
+Historical trends were subsequently used as a baseline for developing forward-looking financial projections.
 
 ---
 
 ## 📈 Revenue Forecasting
 
-Revenue projections were developed based on business fundamentals rather than simple mechanical extrapolation.
+Revenue projections were developed using **business fundamentals rather than simple mechanical extrapolation**.
 
 ### Key Forecasting Drivers
 
-1. **Historical Performance**
-   - Baseline growth trends from financial statements
+| Driver | Consideration |
+|---|---|
+| **Historical Performance** | Baseline growth trends from financial statements |
+| **Industry Outlook** | Expansion of India's online travel market |
+| **Segment Maturity** | Different assumptions across business lines |
+| **Scalability** | Operating leverage and potential margin expansion |
 
-2. **Industry Outlook**
-   - Expansion of India's online travel market
-
-3. **Segment Maturity**
-   - Different assumptions for individual business lines
-
-4. **Scalability**
-   - Operating leverage and potential margin expansion
-
-Each business segment was evaluated based on maturity, competitive positioning, and long-term market opportunity. :contentReference[oaicite:5]{index=5}
+Each business segment was evaluated based on its **maturity, competitive positioning, and long-term market opportunity**.
 
 ---
 
 ## 💰 WACC Estimation
 
-The **Weighted Average Cost of Capital (WACC)** was estimated to determine the appropriate discount rate for the DCF valuation.
+The **Weighted Average Cost of Capital (WACC)** was estimated to determine the discount rate used in the DCF valuation.
 
 ### Key Inputs
 
@@ -104,78 +136,29 @@ The **Weighted Average Cost of Capital (WACC)** was estimated to determine the a
 | After-Tax Cost of Debt | 5.625% |
 | Equity Weight | 95% |
 | Debt Weight | 5% |
-| WACC | 13.23% |
+| **WACC** | **13.23%** |
 
-The analysis considered market-based benchmarks and company-specific characteristics while maintaining a conservative valuation approach. :contentReference[oaicite:6]{index=6}
+The WACC estimation incorporated market-based inputs and company-specific characteristics to determine an appropriate discount rate for the valuation.
 
 ---
 
 ## 💵 FCFF Modelling
 
-**Free Cash Flow to Firm (FCFF)** was used as the primary valuation metric.
+**Free Cash Flow to Firm (FCFF)** was used as the primary cash-flow metric for the valuation.
 
-The model incorporated:
-
-- EBIT
-- Taxes
-- NOPAT
-- Depreciation & Amortization
-- Capital Expenditure
-- Working Capital
-- Changes in Working Capital
-
-FCFF was selected because it measures cash generated by the business that is available to all capital providers and focuses on cash generation rather than accounting profits. :contentReference[oaicite:7]{index=7}
-
-### Projected FCFF
-
-| Financial Year | FCFF |
-|---|---:|
-| FY26 | 728.69 |
-| FY27 | 947.08 |
-| FY28 | 1,284.35 |
-| FY29 | 1,682.51 |
-| FY30 | 2,155.48 |
-
-The report constructed the FCFF model using forecasted operating performance and investment requirements, with assumptions linked to business fundamentals. :contentReference[oaicite:8]{index=8}
-
----
-
-## 🔮 Terminal Value
-
-Terminal value was estimated to capture the value of cash flows generated beyond the explicit forecast period.
-
-The approach assumed that:
-
-- Growth gradually moderates after the high-growth period
-- Long-term growth remains sustainable
-- Terminal growth is aligned with long-term industry and economic conditions
-- Conservative assumptions reduce valuation bias
-
-:contentReference[oaicite:9]{index=9}
-
----
-
-## 📉 Discounted Cash Flow Valuation
-
-The DCF framework was used to estimate the intrinsic value of ixigo.
-
-### Valuation Process
+### FCFF Components
 
 ```text
-Historical Financial Analysis
-          ↓
-Revenue & Operating Forecast
-          ↓
-FCFF Estimation
-          ↓
-WACC Calculation
-          ↓
-Terminal Value
-          ↓
-Discount Future Cash Flows
-          ↓
-Enterprise Value
-          ↓
-Equity Value
-          ↓
-Intrinsic Value Per Share
+EBIT
+ ↓
+Tax
+ ↓
+NOPAT
+ ↓
++ Depreciation & Amortization
+ ↓
+− Capital Expenditure
+ ↓
+− Change in Working Capital
+ ↓
+FCFF
